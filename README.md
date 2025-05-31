@@ -16,9 +16,6 @@
 | Микроконтроллер | ESP32 (Wi-Fi/BLE) |
 | Датчики | HX711 + тензодатчик |
 | Механика | Шаговый двигатель NEMA 17 |
-| Интерфейс | HTML5/CSS3/JS + REST API |
+| Код | HTML/CSS/JS + С++ |
 
-| Column 1 | Column 2 | Column 3 |  
-| -------- | -------- | -------- |  
-| Data 1 | Data 2 | Data 3 |  
-| Data 4 | Data 5 | Data 6 |  
+
